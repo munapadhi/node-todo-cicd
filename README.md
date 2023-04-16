@@ -15,5 +15,5 @@ Run these commands:
 
 or Run by docker compose
 
-test npm test
+test npm test --code-coverage
 
